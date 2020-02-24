@@ -39,7 +39,7 @@ $ npm run start
 
 👤 **Damilola Ale**
 
-- Github: [@damiecodes](https://github.com/damiecodes)
+- Github: [@damiecode](https://github.com/damiecode)
 - Twitter: [@iamlildamski](https://twitter.com/iamlildamski)
 - Linkedin: [Damilola Ale](https://www.linkedin.com/in/damiecode/)
 
